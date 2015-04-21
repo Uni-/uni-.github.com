@@ -20,7 +20,7 @@ inspired by <a href="http://usesthis.com">usesthis.com</a>
 <h3>인공어</h3>
 <p>주력 언어로는 C, C++, Java를 사용합니다. C11, C++11, JDK 6 미만에 호환되는 코드는 웬만하면 작성하지 않습니다. 스스로의 코딩 컨벤션에 엄격합니다.</p>
 <p>sh/bash 스크립트, cmd batch 스크립트를 작성할 수 있습니다. 그러나 개인 목적의 스크립팅에는 ECMAScript를 사용합니다. 유닉스 계열에는 Node.js, 윈도우에는 WSH가 있으며, 양쪽 모두에서 사용할 수 있는 모질라 js 바이너리도 있습니다.</p>
-<p>그 밖에 한때 열심히 써 봤던 언어로는 Visual Basic, C#, Python, Haskell, OCaml, Scheme, Go, Coq Gallina, Rust, &hellip;&hellip;. 다른 언어는 거의 전혀 모릅니다.</p>
+<p>그 밖에 한때 열심히 써 봤던 언어로는 Visual Basic 6.0, C# (.NET 4.0 / Mono), Python (2.7/3.3), Haskell, OCaml, Scheme, Go, Coq Gallina, Rust, &hellip;&hellip;. 다른 언어는 거의 전혀 모릅니다.</p>
 <h2>소프트웨어</h2>
 여기서 소프트웨어는 프로그래밍 가능한 하드웨어 상에서 복제 가능한 프로그램을 의미합니다.
 <h3>운영체제</h3>
@@ -30,22 +30,52 @@ Windows와 Linux를 사용합니다.
 <li>Linux 커널 기반의 운영체제는 그다지 다양한 버전으로 사용하고 있지 않습니다. 상대적으로 이쪽의 애플리케이션들은 (1) F/OSS로, 최신 플랫폼에 맞추어 꾸준히 업데이트되고 있거나, (2) 운영체제가 제공하는 패키지 관리자를 이용해 호환성이 맞는 환경을 상대적으로 쉽게 조성할 수 있기 때문입니다. 항상 최신 버전의 Fedora를 사용합니다. 너무 쉬운 배포에 익숙해지지는 않기 위해, Ubuntu 계열은 의도적으로 피하는 편입니다.</li>
 </ul>
 사용하고 있는 스마트폰은 Android 기반으로, 현재 Android 5.0 Lollipop 계열 펌웨어로의 업그레이드를 제공합니다. OS X이나 iOS 계열은 사용하지 않고 있습니다.
+<h3>텍스트 및 문서 편집기</h3>
+<ul>
+<li><del>cat을 씁니다.</del></li>
+<li>Vim을 씁니다. Vim vs. Emacs 같은 비교 구도가 왜 있는지 모르겠네요. 좋은 에디터와 에디터가 없는 셸이잖아요. 에디터로는 Vim을 사용합니다. 프로그램 설치를 못 하는데 텍스트 터미널에서 웹 브라우징을 해야 하는 등의 제한적인 상황에서만 emacs -nw를 사용합니다.</li>
+<li>사용하는 웹 브라우저의 시작 페이지는 data:text/html,&lt;html contenteditable&gt;입니다. 이 역시 좋은 에디터입니다.</li>
+<li>윈도우에서는 Vim을 쓰지 않고 Notepad2-mod를 씁니다. Notepad++와 같은 Scintilla 기반의 에디터로, UI 구성이 단순하고 직관적이어서 이쪽을 선호합니다. 또한 실행 파일(exe)이 하나로 똑 떨어진다는 장점이 있습니다.</li>
+<li>UltraEdit, EditPlus, Notepad++ 등의 에디터도 쓸 줄은 압니다.</li>
+<li>업무 상의 이유로 HWP / Hancom Office, Microsoft Office를 씁니다.</li>
+<li>개인 문서 작성에는 주로 직접 만든 마크업 문법인 yeast를 사용합니다. 프로젝트 문서에는 필요에 따라 Markdown이나 HTML을 사용하며, 마크업에 특화된 편집기는 따로 사용하지 않습니다.</li>
+</ul>
+멀티부팅에는 grub2를 사용합니다. VirtualBox와 VMware Player가 GPT 디스크 이미지에서 UEFI 부팅을 제대로 지원하지 않아서, 주 디스크의 파티셔닝은 MBR로 합니다.
 <h3>웹 브라우저</h3>
-Firefox:
+Firefox stable channel을 사용합니다. aurora channel은 잘 쓰지 않습니다.
 <ul>
-<li></li>
+<li>애드온은 거의 쓰지 않습니다. 3.x 시절에는 많이 썼는데, 4부터 호환성이 끊임없이 터지면서 모두 포기했습니다.</li>
+<li>Firebug + Google Code Inspector를 썼습니다. 상기 이유로 지금은 쓰지 않습니다.</li>
+<li>Firefox 4 이후로 localstore.rdf를 직접 편집해서 썼습니다. 메뉴 모음의 도구 배치를 하다 보면 GUI 상에서 설정하기 힘들 때가 있는데, 파일을 직접 편집해서 해결했습니다. Firefox 19 이후에도 Australis 인터페이스를 쓰지 않다가, 26 즈음에 와서 버렸습니다.</li>
+<li>Weave (Firefox Sync) 이전, 프로파일 폴더를 통째로 복사해서 동기화를 해 왔습니다. localstore.rdf를 버린 이후로 기본 Sync 기능이 괜찮아 딱히 하지 않습니다.</li>
 </ul>
-Google Chrome:
+Google Chrome dev channel을 사용합니다. 이쪽은 dev channel이라고는 하나 stable channel에 비해 안정성 면에서 딱히 뒤지는 게 없습니다^^.
 <ul>
-<li></li>
+<li>출시 초기의 빠른 속도와 (멀티코어 지원) Chrome Sync, 개발자 도구 (DevTools) 덕분에 쓰기 시작했습니다. 지금은 큰 장점이 없어 다시 Firefox를 씁니다.</li>
+<li>Angry Code Editor, TextDown, EditThisCookie, Last.fm Scrobbler, Readability Redux 확장을 사용합니다.</li>
 </ul>
-<h3>Windows 애플리케이션</h3>
+<h3>Win32 애플리케이션</h3>
 셸은 사용하는 OS 버전의 explorer.exe를 있는 그대로 사용합니다.
 <ul>
-<li>Total Commander</li>
-<li>MSYS2</li>
-<li>팟플레이어</li>
+<li>MSYS2를 씁니다. MinGW의 기술과 MSYS 배포판이라는 발상에, 기술의 자리에 MinGW 대신 MinGW-w64를, 패키지 매니저의 자리에 mingw-get 대신 pacman을 넣은 축복받은 시스템입니다. 이전에는 MinGW, MSYS, MSysGit 각각을 모두 따로 설치해서 사용해 왔습니다. 모두 날렸으니 이제 그렇게 힘들게 살 일은 없겠습니다.</li>
+<li>Total Commander를 씁니다. 셸 스크립트를 작성하기 귀찮을 때 유용합니다.</li>
 <li>&hellip;</li>
+</ul>
+<h3>Linux 애플리케이션</h3>
+GNOME3 셸을 주로 사용합니다. 메모리가 모자란 경우 xfce4를 씁니다. 그조차 안 되면 GUI를 포기합니다. GNOME3을 쓸 때는 GNOME Tweak Tool을 씁니다.
+<ul>
+<li>&hellip;</li>
+</ul>
+<h3>소프트웨어 개발 도구</h3>
+<ul>
+<li>엄밀히 말해 개발 도구는 아닙니다만 버전 관리에는 Git을 사용합니다.</li>
+<li>고성능 웹 프론트엔드를 만지는 편이 아니라서, 웹 개발에는 특별한 도구를 사용하지 않고 텍스트 에디터 + 웹 브라우저만 씁니다.</li>
+<li>Visual Studio는 6.0부터 2003, 2005 등을 거쳐 2013 CTP1을 사용합니다. 새 버전이 나오면 가차없이 갈아탑니다. 지금은 개인 사정으로 2015는 쓰지 않고 있습니다.</li>
+<li>필요에 따라 CMake 제품군(CMake, CTest, CPack)을 사용합니다. 그러나 애용하지는 않습니다.</li>
+<li>가끔은 autotools(autoconf, automake, libtool)와 make를 사용합니다. 그러나 autohell을 혐오하기 때문에 Makefile을 차라리 손으로 쓰는 편입니다.</li>
+<li>MSYS2는 좋은 개발도구입니다.</li>
+<li>꼭 필요한 경우에 한하여 Qt IDE를 사용합니다. 예를 들면, Windows CE 5.0 프로그램을 만들 때&hellip; 차라리 Windows XP SP1을 설치해서 eVC++4를 쓰는 게 낫습니다.</li>
+<li>Eclipse CDT/JDT/ADT를 사용합니다만, 이 역시 혐오합니다.</li>
 </ul>
 <h2>하드웨어</h2>
 <h3>시스템</h3>
@@ -57,9 +87,6 @@ Google Chrome:
 <h3>키보드</h3>
 <p>키보드를 공들여 구매하지 않습니다. 덕분에 운동을 하지 않는 몸이 더욱 빨리 망가지고 있습니다. 그나마 노트북의 펜타그래프 키보드는 싸구려 멤브레인 키보드보다 괜찮습니다.</p>
 <p>지금은 어쩌다 마주친 IBM Model F AT 키보드를 사용합니다. 키보드를 특별히 구매할 계획이나 생각은 여전히 없습니다.</p>
-<h2>애플리케이션 소프트웨어</h2>
-<h3>에디터</h3>
-<li>Vim vs. Emacs: 에디터와 에디터 기능이 있는 셸을 왜 비교하는지 모르겠습니다. 에디터로는 Vim을 사용합니다. 에디터 기능이 있는 셸로는 Firefox를 사용합니다.</li>
 </body>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="http://hosted.aurynj.net/font/Hamchorom.css" />
