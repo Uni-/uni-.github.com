@@ -4,7 +4,7 @@
 
 ## Curriculum Vitae
 
-* 한국어
+* [한국어](/cv/ko)
 * English
 
 ## 그 밖에
