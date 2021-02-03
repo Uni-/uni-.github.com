@@ -34,14 +34,14 @@ A thoughtful computer programmer who pursue comfortable communication but does n
 ## Professional History
 
 **Service Engineer,** Sep 2017 – *current*; *currently* 3<sup>5</sup>/<sub>12</sub> yrs.
-Clova ([:link:](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
+Clova ([🔗](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
 
 :information_source: Clova (*currently* branded as capitalized “CLOVA”) is a series of AI-tech services (for customers, such as voice UI “assistant” with NLP) or solutions (for companies).
 
 TBU.
 
 **Service Engineer Intern,** Jul 2017 – Aug 2017; 7 wks.
-SmartEditor ([:link:](<https://smarteditor.naver.com/>)), **Naver Corp.,** Rep. of Korea.
+SmartEditor ([🔗](<https://smarteditor.naver.com/>)), **Naver Corp.,** Rep. of Korea.
 
 :information_source: SmartEditor is a series of rich text editor component commonly used in web &amp; mobile services from Naver.
 
@@ -67,20 +67,20 @@ During an achievement of legal duty in Rep. of Korea, I did these in army:
 
 :information_source: ACSR is a process algebraic formal specification language, like CCS (Milner, R.) or CSP (Hoare, C. A. R.).
 
-With VERSA ([:link:](<https://www.cis.upenn.edu/~lee/duncan/versa.html>)), the toolset for ACSR, I did these:
+With VERSA ([🔗](<https://www.cis.upenn.edu/~lee/duncan/versa.html>)), the toolset for ACSR, I did these:
 
 - Recovered the sane executable build from unmaintained source including usage of super old LEDA graph library. (*Currently* the build is still producible.)
 - Source code refactoring up to C++17 from old C++99, with many bugfixes over the ACSR theories.
 - Adaptation of new concurrency theories, such as one in hypervisor universe.
 
 **Service Engineer Intern**, Jan 2013 – Aug 2013; 2 mths.
-DX team of Mabinogi ([:link:](<http://mabinogi.nexon.com/>)), **Nexon Korea Corp.**, Rep. of Korea.
+DX team of Mabinogi ([🔗](<http://mabinogi.nexon.com/>)), **Nexon Korea Corp.**, Rep. of Korea.
 
 :information_source: Mabinogi is an online desktop RPG having &gt; 10 yo.
 
-Mabinogi Talk (Android [:link:](<https://play.google.com/store/apps/details?id=com.nexon.mabinogi.messenger>)), mobile IM app integrated with Mabinogi's in-game chat service.
+Mabinogi Talk (Android [🔗](<https://play.google.com/store/apps/details?id=com.nexon.mabinogi.messenger>)), mobile IM app integrated with Mabinogi's in-game chat service.
 
-Mabinogi Master of Living (*currently* EOL; Android [:link:](<https://play.google.com/store/apps/details?id=com.nexon.MasterOfLiving>), iOS [:chains:](<https://apps.apple.com/app/id668500500>)), a mobile spinoff minigame from Mabinogi.
+Mabinogi Master of Living (*currently* EOL; Android [🔗](<https://play.google.com/store/apps/details?id=com.nexon.MasterOfLiving>), iOS [⛓️](<https://apps.apple.com/app/id668500500>)), a mobile spinoff minigame from Mabinogi.
 
 - Made an on-demand assets system for Mabinogi MoL (launched for Android: Jan 2013), integrated with the Unity Editor (Mabinogi MoL was made on Unity 4). It resulted in major reduction of the base app artifact size from ~ 180 MB to &lt; 30 MB, then also enabling service launch for iOS later (Nov 2013). It took 2 wks to make an early days implementation.
 

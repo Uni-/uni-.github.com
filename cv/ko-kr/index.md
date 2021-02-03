@@ -34,12 +34,12 @@
 ## 직업 경력
 
 **소프트웨어 엔지니어 (“개발 직군”).** 2017 년 9 월 – <u>현재</u> (<u>현재</u> 기준 3<sup>5</sup>/<sub>12</sub> 년).
-**네이버.** 클로바. ([:link:](<https://clova.ai/ko>))
+**네이버.** 클로바. ([🔗](<https://clova.ai/ko>))
 
 TBU.
 
 **소프트웨어 엔지니어 인턴 (“개발 인턴”).** 2017 년 7 월 – 2017 년 8 월 (7 주).
-**네이버.** 스마트에디터. ([:link:](<https://smarteditor.naver.com/>))
+**네이버.** 스마트에디터. ([🔗](<https://smarteditor.naver.com/>))
 
 :information_source: 스마트에디터는 네이버 서비스에서 사용되는 텍스트 서식 에디터 브랜드입니다.
 
@@ -65,7 +65,7 @@ VERSA 유지보수 (후술) 작업을 재개하였습니다.
 
 :information_source: ACSR 은 CCS, CSP 와 유사한 프로세스 대수 기반 정형 명세 언어입니다.
 
-ACSR 도구모음인 VERSA ([:link:](<https://www.cis.upenn.edu/~lee/duncan/versa.html>)) 에 대한 작업을 수행하였습니다.
+ACSR 도구모음인 VERSA ([🔗](<https://www.cis.upenn.edu/~lee/duncan/versa.html>)) 에 대한 작업을 수행하였습니다.
 
 - LEDA 등 오래된 라이브러리를 사용하던 유지보수 끊긴 소스코드로부터 정상 동작하는 실행파일 빌드를 복원했습니다. (<u>현재</u>에도 빌드 가능한 코드가 유지됩니다.)
 - 소스 코드 리팩토링과 버그픽스를 수행하여 ACSR 이론 기준 정상 동작을 점검하였습니다.
@@ -74,7 +74,7 @@ ACSR 도구모음인 VERSA ([:link:](<https://www.cis.upenn.edu/~lee/duncan/vers
 **인턴 프로그래머.** 2013 년 6 월 – 2013 년 8 월 (2 개월).
 **넥슨코리아.** 마비노기 DX팀.
 
-마비노기의 모바일 개발 팀이던 DX팀에서 메신저 앱인 마비노기 톡 (Android [:link:](<https://play.google.com/store/apps/details?id=com.nexon.mabinogi.messenger>)) 과 스핀오프 미니게임인 마비노기 생활의 달인 (Android [:link:](<https://play.google.com/store/apps/details?id=com.nexon.MasterOfLiving>), iOS [:chains:](<https://apps.apple.com/app/id668500500>)) 개발에 참여했습니다.
+마비노기의 모바일 개발 팀이던 DX팀에서 메신저 앱인 마비노기 톡 (Android [🔗](<https://play.google.com/store/apps/details?id=com.nexon.mabinogi.messenger>)) 과 스핀오프 미니게임인 마비노기 생활의 달인 (Android [🔗](<https://play.google.com/store/apps/details?id=com.nexon.MasterOfLiving>), iOS [⛓️](<https://apps.apple.com/app/id668500500>)) 개발에 참여했습니다.
 
 - 마비노기 생활의 달인 (2013 년 6 월 Android 출시, Unity 4 기반) 게임의 동적 리소스 시스템을 구성하였습니다. Unity Editor 연동 리소스 빌더 구현에 2 주 가량 소요되었으며, 그 결과로 앱 빌드 결과물의 크기를 약 180 MB 에서 30 MB 이하 수준으로 감량하고, iOS 출시 (2013 년 11 월) 가 가능하게 되었습니다.
 
