@@ -12,7 +12,7 @@ A thoughtful computer programmer who pursue comfortable communication but does n
 - Android application programming. Works on Android platform, Android SDK and AndroidX, Dalvik/ART. Libraries in fit: Retrofit, Moshi, Glide, ThreeTenABP, RxJava.
 - Web microbackend programming with Spring Boot.
 - Deployment and configuration management, with load balancers or routers (L4 / L7).
-- Reactive functional programming with ReactiveX.
+- Functional reactive programming with ReactiveX.
 - Programming languages: C, Python.
 - Basic scripting with Bash.
 - Build systems: Ant, Maven, Gradle, CMake.
