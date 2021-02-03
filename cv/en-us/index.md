@@ -33,28 +33,28 @@ A thoughtful computer programmer who pursue comfortable communication but does n
 
 ## Professional History
 
-**Service Engineer,** Sep 2017 – *current*; *currently* 3<sup>5</sup>/<sub>12</sub> yrs.
+**Service Engineer,** Sep 2017 – *current*; *currently* 3<sup>5</sup>/<sub>12</sub> yrs.<br />
 Clova ([🔗](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
 
 ℹ️ Clova (*currently* branded as capitalized “CLOVA”) is a series of AI-tech services (for customers, such as voice UI “assistant” with NLP) or solutions (for companies).
 
 TBU.
 
-**Service Engineer Intern,** Jul 2017 – Aug 2017; 7 wks.
+**Service Engineer Intern,** Jul 2017 – Aug 2017; 7 wks.<br />
 SmartEditor ([🔗](<https://smarteditor.naver.com/>)), **Naver Corp.,** Rep. of Korea.
 
 ℹ️ SmartEditor is a series of rich text editor component commonly used in web &amp; mobile services from Naver.
 
 A short project about the architectural pattern for mobile applications.
 
-**Graduate Research Intern,** Mar 2017 – Jun 2017.
+**Graduate Research Intern,** Mar 2017 – Jun 2017.<br />
 **Theory and Formal Methods Lab.,** **Korea University,** Rep. of Korea.
 
 TA for Theory of Computation (undergrad subject), Spring 2017.
 
 Also did continue VERSA maintenance (described below).
 
-**Computer Rm Officer (Military Automation Systems Operator),** Jul 2014 – Jan 2016.
+**Computer Rm Officer (Military Automation Systems Operator),** Jul 2014 – Jan 2016.<br />
 in duty Apr 2014 – do.
 
 During an achievement of legal duty in Rep. of Korea, I did these in army:
@@ -62,7 +62,7 @@ During an achievement of legal duty in Rep. of Korea, I did these in army:
 - Analysis and reestablishment of network topology and security policy for military networks, including ~ 2k terminals (i.e. PCs) and &gt; 100 equipments (i.e. routers).
 - Saved annual +40% loss (by estimate) off from computer room supplies, inventing a critical control point system over the lifecycle of them.
 
-**Undergraduate Research Intern,** Sep 2013 – Apr 2014.
+**Undergraduate Research Intern,** Sep 2013 – Apr 2014.<br />
 **Theory and Formal Methods Lab., Korea University,** Rep. of Korea.
 
 ℹ️ ACSR is a process algebraic formal specification language, like CCS (Milner, R.) or CSP (Hoare, C. A. R.).
@@ -73,7 +73,7 @@ With VERSA ([🔗](<https://www.cis.upenn.edu/~lee/duncan/versa.html>)), the too
 - Source code refactoring up to C++17 from old C++99, with many bugfixes over the ACSR theories.
 - Adaptation of new concurrency theories, such as one in hypervisor universe.
 
-**Service Engineer Intern**, Jan 2013 – Aug 2013; 2 mths.
+**Service Engineer Intern**, Jan 2013 – Aug 2013; 2 mths.<br />
 DX team of Mabinogi ([🔗](<http://mabinogi.nexon.com/>)), **Nexon Korea Corp.**, Rep. of Korea.
 
 ℹ️ Mabinogi is an online desktop RPG having &gt; 10 yo.
@@ -86,14 +86,14 @@ Mabinogi Master of Living (*currently* EOL; Android [🔗](<https://play.google.
 
 ## Education
 
-**Bachelor of Enginneering.** Feb 2017.
-In undergraduate school, May 2011 – do.; includes 2 yrs off from school in 2014–2015 with military duties.
+**Bachelor of Enginneering.** Feb 2017.<br />
+In undergraduate school, May 2011 – do.; includes 2 yrs off from school in 2014–2015 with military duties.<br />
 **Dept. of Computer Science and Enginnering,** Korea University, Rep. of Korea.
 
-**Completion of the National Common Curriculum of Rep. of Korea,** Feb 2011.
-per the legal 7th revised educational curriculum, enactment 1999.
-In “selective 2” years, natural sciences track, Mar 2009 – do.
-In “basic 10” years, Mar 1999 – Feb 2009.
+**Completion of the National Common Curriculum of Rep. of Korea,** Feb 2011.<br />
+per the legal 7th revised educational curriculum, enactment 1999.<br />
+In “selective 2” years, natural sciences track, Mar 2009 – do.<br />
+In “basic 10” years, Mar 1999 – Feb 2009.<br />
 Wansan High School, Rep. of Korea, Mar 2008 – do.
 
 ## Research &amp; Publication
