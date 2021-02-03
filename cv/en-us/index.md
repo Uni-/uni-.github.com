@@ -36,14 +36,14 @@ A thoughtful computer programmer who pursue comfortable communication but does n
 **Service Engineer,** Sep 2017 – *current*; *currently* 3<sup>5</sup>/<sub>12</sub> yrs.
 Clova ([🔗](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
 
-:information_source: Clova (*currently* branded as capitalized “CLOVA”) is a series of AI-tech services (for customers, such as voice UI “assistant” with NLP) or solutions (for companies).
+ℹ️ Clova (*currently* branded as capitalized “CLOVA”) is a series of AI-tech services (for customers, such as voice UI “assistant” with NLP) or solutions (for companies).
 
 TBU.
 
 **Service Engineer Intern,** Jul 2017 – Aug 2017; 7 wks.
 SmartEditor ([🔗](<https://smarteditor.naver.com/>)), **Naver Corp.,** Rep. of Korea.
 
-:information_source: SmartEditor is a series of rich text editor component commonly used in web &amp; mobile services from Naver.
+ℹ️ SmartEditor is a series of rich text editor component commonly used in web &amp; mobile services from Naver.
 
 A short project about the architectural pattern for mobile applications.
 
@@ -65,7 +65,7 @@ During an achievement of legal duty in Rep. of Korea, I did these in army:
 **Undergraduate Research Intern,** Sep 2013 – Apr 2014.
 **Theory and Formal Methods Lab., Korea University,** Rep. of Korea.
 
-:information_source: ACSR is a process algebraic formal specification language, like CCS (Milner, R.) or CSP (Hoare, C. A. R.).
+ℹ️ ACSR is a process algebraic formal specification language, like CCS (Milner, R.) or CSP (Hoare, C. A. R.).
 
 With VERSA ([🔗](<https://www.cis.upenn.edu/~lee/duncan/versa.html>)), the toolset for ACSR, I did these:
 
@@ -76,7 +76,7 @@ With VERSA ([🔗](<https://www.cis.upenn.edu/~lee/duncan/versa.html>)), the too
 **Service Engineer Intern**, Jan 2013 – Aug 2013; 2 mths.
 DX team of Mabinogi ([🔗](<http://mabinogi.nexon.com/>)), **Nexon Korea Corp.**, Rep. of Korea.
 
-:information_source: Mabinogi is an online desktop RPG having &gt; 10 yo.
+ℹ️ Mabinogi is an online desktop RPG having &gt; 10 yo.
 
 Mabinogi Talk (Android [🔗](<https://play.google.com/store/apps/details?id=com.nexon.mabinogi.messenger>)), mobile IM app integrated with Mabinogi's in-game chat service.
 
