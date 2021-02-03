@@ -19,7 +19,7 @@
 - 버전 컨트롤과 CI: Git, GitHub, Jenkins.
 - 운영체제, 가상화, 오케스트레이션: Linux, Docker, Kubernetes.
 
-### 관심 분야
+### 관심 분야 (업무 경험 있음)
 
 - 모던 웹 API, Node.js, React 웹 프론트엔드.
 - 프로그래밍 언어: ECMAScript, Rust, Go, C++20, Haskell, Prolog.
