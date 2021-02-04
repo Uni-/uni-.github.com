@@ -9,6 +9,8 @@ This is homepage of Eon Jeong. (Jeong is my surname)
 
 ## External links
 
+* [📝 **A4**](https://a4.aurynj.net/)
+* [📝 **trouble.log**](https://eonj.github.io/trouble.log/)
 * [(GitHub) eonj](<https://github.com/eonj>)
 * [(Facebook) wonderjune](<https://www.facebook.com/wonderjune>)
 * [(SoundCloud) Usrhym](<https://soundcloud.com/usrhym>)
