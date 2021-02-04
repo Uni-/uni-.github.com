@@ -90,8 +90,33 @@ ACSR 도구모음인 VERSA ([🔗](<https://www.cis.upenn.edu/~lee/duncan/versa.
 
 **2017**
 
-이혁, 정언, 최진영. 제약 만족 문제 방식을 통한 스케줄 가능성 분석. 한국정보과학회 2017 한국소프트웨어종합학술대회 논문집, 2017. 12., 1611–1613.
+이혁, **정언**, 최진영. 제약 만족 문제 방식을 통한 스케줄 가능성 분석. 한국정보과학회 2017 한국소프트웨어종합학술대회 논문집, 2017. 12., 1611–1613. (DBpia [🔗](<https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322582>))
 
 ## 오픈소스
 
-TBU
+기여자이기보다 주로 소비자입니다. 필요에 따라 제가 만질 수 있는 것은 소소하게 메인라인에도 제안하고 있습니다. 새로운 기능보다는 버그, 튜닝, 구조에 집중하는 편입니다.
+
+**2019**
+
+Google AutoValue 확장인 auto-value-parcel 에 대한 이슈 리포트 (GitHub [🔗](<https://github.com/rharter/auto-value-parcel/pull/140>))
+
+**2017–2019**
+
+MSYS2 PKGBUILD (GitHub [🔗](<https://github.com/msys2/MSYS2-packages/commits?author=eonj>))
+
+**2017**
+
+Java SE 7 환경에서의 바이너리 배포시 GPLv2+CE 문제 관련, java-optionalbp 공개 (GitHub [🔗](<https://github.com/naver/java-optionalbp>))
+
+**2017**
+
+Z3 이슈 리포트 (GitHub [🔗](<https://github.com/Z3Prover/z3/pull/908>), [🔗](<https://github.com/Z3Prover/z3/pull/969>))
+
+**2015–2016**
+
+CMake 모듈 기여 (FindBISON DEFINES_FILE: 메일 스레드 [🔗](<https://cmake.org/pipermail/cmake-developers/2015-May/025342.html>), [🔗](<https://cmake.org/pipermail/cmake-developers/2015-June/025367.html>); FindBISON VERBOSE: 메일 스레드 [🔗](<https://cmake.org/pipermail/cmake-developers/2015-June/025494.html>), [🔗](<https://cmake.org/pipermail/cmake-developers/2016-July/029010.html>))
+
+**2013**
+
+K-9 Mail 초기 한국어 번역 (GitHub [🔗](<https://github.com/k9mail/k-9/commits?author=eonj>))
+

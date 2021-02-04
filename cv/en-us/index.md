@@ -100,8 +100,33 @@ Wansan High School, Rep. of Korea, Mar 2008 – do.
 
 **2017**
 
-Hyuk Lee, Eon Jeong, Jin-Young Choi. Schedulability analysis with Constraint Satisfaction Problem approach. Proceedings of KSC 2019, 2017. 12., 1611–1613.
+Hyuk Lee, **Eon Jeong**, Jin-Young Choi. Schedulability analysis with Constraint Satisfaction Problem approach. Proceedings of KSC 2019, 2017. 12., 1611–1613. (DBpia [🔗](<https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322582>))
 
 ## Opensource
 
-TBU
+Mostly being a consumer rather than a contributor; on the other hand, making some minor suggestions for the mainline as far as I can touch when it's needed. Tend to focus on bugs, tuning, structure instead of new functionality.
+
+**2019**
+
+auto-value-parcel (Google AutoValue extension) issue report (GitHub [🔗](<https://github.com/rharter/auto-value-parcel/pull/140>))
+
+**2017–2019**
+
+MSYS2 PKGBUILD (GitHub [🔗](<https://github.com/msys2/MSYS2-packages/commits?author=eonj>))
+
+**2017**
+
+Opensourced java-optionalbp for Java SE 7 binaries GPLv2+CE compliant (GitHub [🔗](<https://github.com/naver/java-optionalbp>))
+
+**2017**
+
+Z3 issue report (GitHub [🔗](<https://github.com/Z3Prover/z3/pull/908>), [🔗](<https://github.com/Z3Prover/z3/pull/969>))
+
+**2015–2016**
+
+CMake module contribution (FindBISON DEFINES_FILE: mail thread [🔗](<https://cmake.org/pipermail/cmake-developers/2015-May/025342.html>), [🔗](<https://cmake.org/pipermail/cmake-developers/2015-June/025367.html>); FindBISON VERBOSE: mail thread [🔗](<https://cmake.org/pipermail/cmake-developers/2015-June/025494.html>), [🔗](<https://cmake.org/pipermail/cmake-developers/2016-July/029010.html>))
+
+**2013**
+
+K-9 Mail early Korean translation (GitHub [🔗](<https://github.com/k9mail/k-9/commits?author=eonj>))
+
