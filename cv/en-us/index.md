@@ -1,8 +1,8 @@
-English | [한국어](/cv/ko-kr/)
+English **Curriculum Vitae** | [한국어 **이력서**](/cv/ko-kr/)
 
 # Curriculum Vitae
 
-*current* = Feb 2021.
+*current* = May 2021.
 
 ## Summary
 
