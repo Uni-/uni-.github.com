@@ -33,12 +33,17 @@ A thoughtful computer programmer who pursue comfortable communication but does n
 
 ## Professional History
 
-**Service Engineer,** Sep 2017 – *current*; *currently* 3<sup>5</sup>/<sub>12</sub> yrs.<br />
+**Service Engineer,** Sep 2017 – *current*; *currently* 3 <sup>6</sup>/<sub>12</sub> yrs.<br />
 Clova ([🔗](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
 
 ℹ️ Clova (*currently* branded as capitalized “CLOVA”) is a series of AI-tech services (for customers, such as voice UI “assistant” with NLP) or solutions (for companies).
 
-TBU.
+- (2020–*current*) On Clova mobile apps (Android &amp; iOS), maintaining API services, push notification services, and web-based operators' tools.
+- (2019–*current*) On Clova mobile apps (Android &amp; iOS), writing specs on devices-integrated functionalities, developing features configuration delivery (with operation) from server to clients.
+- (2018) Revisioning Clova platform specs for audio contents. (lines on Android client)
+- (2018) On Clova SDK (Clova Client SDK; CLOVA SDK for Android), engineering in-charge (code, release and also requirements) dealing with ~ 20 clients in Korea and Japan.
+- (2017) Rewriting device initialization in Clova mobile app while its total revision days. (lines on Android client, configuration <u>currently</u> maintained also)
+- (2017) Writing most of early Clova mobile app functionalities around Clova platform devices integration. (lines on Android client, debugging servers and devices)
 
 **Service Engineer Intern,** Jul 2017 – Aug 2017; 7 wks.<br />
 SmartEditor ([🔗](<https://smarteditor.naver.com/>)), **Naver Corp.,** Rep. of Korea.
@@ -122,9 +127,17 @@ Opensourced java-optionalbp for Java SE 7 binaries GPLv2+CE compliant (GitHub [�
 
 Z3 issue report (GitHub [🔗](<https://github.com/Z3Prover/z3/pull/908>), [🔗](<https://github.com/Z3Prover/z3/pull/969>))
 
+**2016**
+
+On conic-gradient polyfill by Lea Verou (GitHub [🔗](<https://github.com/LeaVerou/conic-gradient/issues/20>))
+
 **2015–2016**
 
 CMake module contribution (FindBISON DEFINES_FILE: mail thread [🔗](<https://cmake.org/pipermail/cmake-developers/2015-May/025342.html>), [🔗](<https://cmake.org/pipermail/cmake-developers/2015-June/025367.html>); FindBISON VERBOSE: mail thread [🔗](<https://cmake.org/pipermail/cmake-developers/2015-June/025494.html>), [🔗](<https://cmake.org/pipermail/cmake-developers/2016-July/029010.html>))
+
+**2013**
+
+On opensourcing chipdb by Matthew Sarnoff ([🔗](<http://www.msarnoff.org/chipdb/>); GitHub [🔗](<https://github.com/74hc595/chipdb>))
 
 **2013**
 

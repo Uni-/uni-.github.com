@@ -10,8 +10,8 @@
 
 - Java 와 Kotlin/JVM. Java 빌드 툴체인 사용, JVM 런타임 튜닝, 네이티브 디버깅 등을 포괄적으로 수행할 수 있음. OpenJDK HotSpot 환경에서 모듈의 메모리 사용을 예측, 실시간 측정해 비용효율적인 런타임 계획을 수립할 수 있음.
 - Android 앱 프로그래밍. Android 플랫폼, Android SDK, AndroidX 에서 작업. Retrofit, Moshi, Glide, ThreeTenABP, RxJava 에 익숙함.
-- Spring Boot 기반 웹 마이크로백엔드 프로그래밍 가능.
-- L4 / L7 LBR 을 활용하여 규모가변 배포 및 형상관리 가능.
+- Spring Boot 기반 웹 마이크로백엔드 프로그래밍.
+- L4 / L7 LBR 을 활용하는 규모가변 배포 및 형상관리.
 - 함수형 반작용적 프로그래밍 (FRP): ReactiveX.
 - 프로그래밍 언어: C, Python.
 - 기본적인 Bash 스크립팅.
@@ -33,12 +33,17 @@
 
 ## 직업 경력
 
-**소프트웨어 엔지니어 (“개발 직군”).** 2017 년 9 월 – <u>현재</u> (<u>현재</u> 기준 3<sup>5</sup>/<sub>12</sub> 년).<br />
+**서비스 엔지니어 (“개발 직군”).** 2017 년 9 월 – <u>현재</u> (<u>현재</u> 기준 3 <sup>6</sup>/<sub>12</sub> 년).<br />
 **네이버.** 클로바. ([🔗](<https://clova.ai/ko>))
 
-TBU.
+- (2020–<u>현재</u>) 클로바 앱 (Android, iOS) 클라이언트를 위한 API 서버, 푸시 알림 서버, 서비스 운영을 위한 웹 기반 도구 등을 관리하고 있습니다.
+- (2019–<u>현재</u>) 클로바 앱 (Android, iOS) 클라이언트의 디바이스 제어 관련 기능에 대한 명세를 작성하고, 클라이언트의 기능 구성을 서버에서 운영 및 유통하는 시스템을 개발하고 있습니다.
+- (2018) 클로바 플랫폼의 통합 오디오 컨텐츠 규격 개편에 참여하였습니다.
+- (2018) 클로바 SDK (클로바 클라이언트 SDK; CLOVA SDK for Android) 의 개발 및 요구사항 관리를 전담하여, 기능 추가, 버그 픽스, 클라이언트 이슈 대응 (당시 KR+JP 클라이언트 20 여 곳), 릴리스 등 SDK 전반 업무를 수행하였습니다.
+- (2017) 클로바 앱 전면개편 시기에 클로바 디바이스 계정 연결 기능을 재구현하였습니다. (Android 클라이언트 코드 작성. <u>현재</u>에도 형상 유지되는 표준 구현입니다.)
+- (2017) 클로바 프렌즈 출시에 맞추어 클로바 앱을 통한 클로바 플랫폼 디바이스 제어 기능을 개발하였습니다. (Android 클라이언트 코드 작성, 서버/디바이스 디버깅)
 
-**소프트웨어 엔지니어 인턴 (“개발 인턴”).** 2017 년 7 월 – 2017 년 8 월 (7 주).<br />
+**서비스 엔지니어 인턴 (“개발 인턴”).** 2017 년 7 월 – 2017 년 8 월 (7 주).<br />
 **네이버.** 스마트에디터. ([🔗](<https://smarteditor.naver.com/>))
 
 ℹ️ 스마트에디터는 네이버 서비스에서 사용되는 텍스트 서식 에디터 브랜드입니다.
@@ -112,9 +117,17 @@ Java SE 7 환경에서의 바이너리 배포시 GPLv2+CE 문제 관련, java-op
 
 Z3 이슈 리포트 (GitHub [🔗](<https://github.com/Z3Prover/z3/pull/908>), [🔗](<https://github.com/Z3Prover/z3/pull/969>))
 
+**2016**
+
+Lea Verou 의 conic-gradient polyfill 기여 (GitHub [🔗](<https://github.com/LeaVerou/conic-gradient/issues/20>))
+
 **2015–2016**
 
 CMake 모듈 기여 (FindBISON DEFINES_FILE: 메일 스레드 [🔗](<https://cmake.org/pipermail/cmake-developers/2015-May/025342.html>), [🔗](<https://cmake.org/pipermail/cmake-developers/2015-June/025367.html>); FindBISON VERBOSE: 메일 스레드 [🔗](<https://cmake.org/pipermail/cmake-developers/2015-June/025494.html>), [🔗](<https://cmake.org/pipermail/cmake-developers/2016-July/029010.html>))
+
+**2013**
+
+Matthew Sarnoff 의 chipdb ([🔗](<http://www.msarnoff.org/chipdb/>); GitHub [🔗](<https://github.com/74hc595/chipdb>)) 오픈소스화에 참여
 
 **2013**
 
