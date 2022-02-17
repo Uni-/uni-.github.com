@@ -2,28 +2,27 @@ English **Curriculum Vitae** | [한국어 **이력서**](/cv/ko-kr/)
 
 # Curriculum Vitae
 
-*current* = May 2021.
+*current* = May 2022.
 
 ## Summary
 
-A thoughtful computer programmer who pursue comfortable communication but does not overcompromise on quality. It past 3 years and so forth since I became a paid regular.
+A thoughtful software engineer who pursue comfortable communication but does not overcompromise on quality. It past 4 years and so forth since I became a paid regular.
 
 ### Skills
 
+- Version control and continuous integration: Git, GitHub, Jenkins.
+- Using OS, virt and orch: Linux, Docker, Kubernetes.
 - Java &amp; Kotlin/JVM. Build with Java toolchains, Finetuning JVM runtime, Cost-efficient module runtime planning with measures, such as memory prediction and tracing in OpenJDK HotSpot (metaspace, heap).
 - Android application programming. Works on Android platform, Android SDK and AndroidX, Dalvik/ART. Libraries in fit: Retrofit, Moshi, Glide, ThreeTenABP, RxJava.
 - Web microbackend programming with Spring Boot.
+- Designing modern web APIs, Node.js, React web frontend programming.
 - Deployment and configuration management, with load balancers or routers (L4 / L7).
 - Functional reactive programming with ReactiveX.
-- Programming languages: C, Python.
-- Basic scripting with Bash.
+- Programming languages: C, Python, Bash.
 - Build systems: Ant, Maven, Gradle, CMake.
-- Version control and continuous integration: Git, GitHub, Jenkins.
-- OS, virt and orch: Linux, Docker, Kubernetes.
 
-### Interests (with experience)
+### Interests (with small work experience)
 
-- Modern web APIs, Node.js, React web frontend.
 - Programming languages: ECMAScript, Rust, Go, C++20, Haskell, Prolog.
 - Unity (game engine), C# scripting.
 - OpenGL Shading Language.
@@ -35,13 +34,13 @@ A thoughtful computer programmer who pursue comfortable communication but does n
 
 ## Professional History
 
-**Service Engineer,** Sep 2017 – *current*; *currently* 3 <sup>6</sup>/<sub>12</sub> yrs.<br />
+**Service Engineer,** Sep 2017 – *current*; *currently* 4 <sup>6</sup>/<sub>12</sub> yrs.<br />
 Clova ([🔗](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
 
 ℹ️ Clova (*currently* branded as capitalized “CLOVA”) is a series of AI-tech services (for customers, such as voice UI “assistant” with NLP) or solutions (for companies).
 
 - (2020–*current*) On Clova mobile apps (Android &amp; iOS), maintaining API services, push notification services, and web-based operators' tools.
-- (2019–*current*) On Clova mobile apps (Android &amp; iOS), writing specs on devices-integrated functionalities, developing features configuration delivery (with operation) from server to clients.
+- (2019–*current*) On Clova mobile apps (Android &amp; iOS), writing functional req specs, developing continuous integration &amp; delivery on client features configuration from servers operated.
 - (2018) Revisioning Clova platform specs for audio contents. (lines on Android client)
 - (2018) On Clova SDK (Clova Client SDK; CLOVA SDK for Android), engineering in-charge (code, release and also requirements) dealing with ~ 20 clients in Korea and Japan.
 - (2017) Rewriting device initialization in Clova mobile app while its total revision days. (lines on Android client, configuration <u>currently</u> maintained also)
@@ -102,6 +101,22 @@ per the legal 7th revised educational curriculum, enactment 1999.<br />
 In “selective 2” years, natural sciences track, Mar 2009 – do.<br />
 In “basic 10” years, Mar 1999 – Feb 2009.<br />
 Wansan High School, Rep. of Korea, Mar 2008 – do.
+
+## Contest & Conference
+
+**2021**
+
+*Walkthrough of an Android Programmer on Server-side Engineering: Progressive Release and Compatibility Organizing for CLOVA App.* DEVIEW 2021. ([🔗](<https://deview.kr/2021/sessions/418?lang=en>) DEVIEW is a software developer conference)
+
+> This session is performed in Korean.
+>
+> "CLOVA App" is the sole GUI for enduser of "CLOVA", our voice-oriented virtual assistant service, which accordingly provides essential controls and scope of management. Can you guess what turns to be the major problem of an app client, when it should be all aware of other speaker clients and skill microservices—because the service platform is basically the mediator between them?
+>
+> We introduce some internals–how a mini server-side engineering topic is eventually extended from a person, who are actually an Android programmer. The material contains 2 years of trials (also errors,) that is composed of half a year of working prototypes; another of pratical substantiation including UX+QA topics; and the production use of a year and going on. We wish this could bring you some nit tips and empathy as a developer, like you, like a salmon tracing up the river living in fast-fast world of service softwares.
+
+**2011**
+
+9th Place. Team Code\_of_Duty, Korea University. ACM-ICPC (International Collegiate Programming Contest) Daejeon Regional 2011. ([🔗](<http://icpckorea.org/2011-daejeon/regional>))
 
 ## Research &amp; Publication
 
