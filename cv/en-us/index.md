@@ -1,4 +1,4 @@
-English **Curriculum Vitae** | [한국어 **이력서**](/cv/ko-kr/)
+| aurynj.net \> CV | English **Curriculum Vitae** | [한국어 **이력서**](/cv/ko-kr/) |
 
 # Curriculum Vitae
 
