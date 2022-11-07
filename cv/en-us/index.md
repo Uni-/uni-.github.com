@@ -2,11 +2,11 @@
 
 # Curriculum Vitae
 
-*current* = May 2022.
+*current* = Sep 2022.
 
 ## Summary
 
-A thoughtful software engineer who pursue comfortable communication but does not overcompromise on quality. It past 4 years and so forth since I became a paid regular.
+A thoughtful software engineer who pursue comfortable communication but does not overcompromise on quality. It past 5 years and so forth since I became a paid regular.
 
 ### Skills
 
@@ -34,7 +34,7 @@ A thoughtful software engineer who pursue comfortable communication but does not
 
 ## Professional History
 
-**Service Engineer,** Sep 2017 – *current*; *currently* 4 <sup>6</sup>/<sub>12</sub> yrs.<br />
+**Service Engineer,** Sep 2017 – *current*; *currently* 5 <sup>2</sup>/<sub>12</sub> yrs.<br />
 Clova ([🔗](<https://clova.ai/ko>)), **Naver Corp.,** Rep. of Korea.
 
 ℹ️ Clova (*currently* branded as capitalized “CLOVA”) is a series of AI-tech services (for customers, such as voice UI “assistant” with NLP) or solutions (for companies).
