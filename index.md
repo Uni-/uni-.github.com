@@ -4,11 +4,6 @@
 
 This is homepage of Eon Jeong. (Jeong is my surname)
 
-## CV
-
-* [한국어](/cv/ko-kr/)
-* [English](/cv/en-us/)
-
 ## External links
 
 * [📝 **A4**](https://a4.aurynj.net/)
